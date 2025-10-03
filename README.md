@@ -77,21 +77,21 @@ SAFE_DIVIDE(COUNTIF(review_score <= 2), COUNT(*)) AS negative_reviews_pct
 KPI cards (GMV, Orders, AOV, Canceled %, Avg delivery days, Late rate), GMV & Orders trend (combo), Top-10 states, Late rate by state.
 
 
-![Page 1 - Sales Dashboard](assets/screenshots/sales_dashboard_2017.png)
+![Page 1 - Sales Dashboard](assets/screenshots/sales_dashboard_2017.png)(https://lookerstudio.google.com/u/0/reporting/9bf77bf9-0da9-4c79-8745-28d9893c480a/page/iFgZF)
 
 
 ### Page 2 – Category Performance
 KPI cards, Growth vs PY by category (GMV share & Δ%), Category × State heatmap, Top-5 GMV by category, Top-5 AOV by category.
 
 
-![Page 2 - Category Heatmap](assets/screenshots/category_2017.png)
+![Page 2 - Category Heatmap](assets/screenshots/category_2017.png)(https://lookerstudio.google.com/u/0/reporting/9bf77bf9-0da9-4c79-8745-28d9893c480a/page/p_zv98sabpwd)
 
 
 ### Page 3 – Customer Reviews & Reasons
 100% stacked review trend (High/Medium/Low), Severity × Prevalence bubble chart, table with Share of all reviews, % negative within reason, % of total negatives.
 
 
-![Page 3 - Reviews](assets/screenshots/reviews_2017.png)
+![Page 3 - Reviews](assets/screenshots/reviews_2017.png)(https://lookerstudio.google.com/u/0/reporting/9bf77bf9-0da9-4c79-8745-28d9893c480a/page/p_iy8wkjepwd)
 
 
 
