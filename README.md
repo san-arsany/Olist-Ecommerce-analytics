@@ -150,7 +150,7 @@ Review reasons are grouped; linking every review to an order may vary by dataset
 
 ## Contact
 
-Samy Bouhassoune – Data Analyst
+Samy Bouhassoune – Data Analyst ·
 LinkedIn: https://www.linkedin.com/in/samy-bouhassoune · Email: samyy.b@hotmail.fr
 
 ## 🇫🇷 Résumé
@@ -159,4 +159,4 @@ LinkedIn: https://www.linkedin.com/in/samy-bouhassoune · Email: samyy.b@hotmail
 
 2018 YTD (jan–août vs N-1) : GMV +140.9%, Commandes +135.1%, AOV +2.5%, Annulés 0.58% (−0.16 pt), Retards 9.2%.
 
-Priorités : baisser les retards (AL/MA/CE), corriger “non conforme”, pousser les catégories à fort AOV, protéger les best-sellers.
+Priorités : baisser les retards (AL/MA/CE), corriger produit “non conforme”, pousser les catégories à fort AOV et les best-sellers.
